@@ -32,4 +32,4 @@ const countdown = (deadline, elem, finalMessage) => {
 
 };
 
-countdown('Thu Jan 20 2022 18:00:00 GMT-0300', 'clock', 'GRACIAS!');
+countdown('Thu Jan 20 2022 18:00:00 GMT-0300', 'clock', 'La pagina esta siendo publicada, ve al canal de youtube para seguir el proceso');
