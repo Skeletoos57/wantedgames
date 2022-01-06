@@ -1,4 +1,4 @@
-body {
+body{
     background-color: black;
 }
 
@@ -10,6 +10,12 @@ body {
 
 #subtitle {
     font-size: 25px;
+    color: red;
+    font-family: monospace;
+}
+
+#clock {
+    font-size: 120px;
     color: red;
     font-family: monospace;
 }
