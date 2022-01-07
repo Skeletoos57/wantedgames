@@ -33,9 +33,3 @@ const countdown = (deadline, elem, finalMessage) => {
 };
 
 countdown('Thu Jan 20 2022 18:00:00 GMT-0300', 'clock', 'La pagina esta siendo publicada, ve al canal de youtube para seguir el proceso');
-
-setInterval(function() {
-    let colors = ["red", "blue", "green", "yellow", "black", "white", "orange", "pibk"];
-    
-    document.getElementById("soon").style.color = colors[Math.floor(Math.random() * colors.length))];
-}, 100);
